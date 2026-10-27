@@ -1,0 +1,10 @@
+/home/Esther/rusr/pinocchio/proyecto1/blueshift_vault/target/sbpf-solana-solana/release/deps/sha2_const_stable-39f5bc75dc888918.d: /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/lib.rs /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/constants.rs /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/sha.rs /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/util.rs
+
+/home/Esther/rusr/pinocchio/proyecto1/blueshift_vault/target/sbpf-solana-solana/release/deps/libsha2_const_stable-39f5bc75dc888918.rlib: /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/lib.rs /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/constants.rs /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/sha.rs /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/util.rs
+
+/home/Esther/rusr/pinocchio/proyecto1/blueshift_vault/target/sbpf-solana-solana/release/deps/libsha2_const_stable-39f5bc75dc888918.rmeta: /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/lib.rs /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/constants.rs /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/sha.rs /home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/util.rs
+
+/home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/lib.rs:
+/home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/constants.rs:
+/home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/sha.rs:
+/home/Esther/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-const-stable-0.1.0/src/util.rs:
